@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eLivestock.iml" filepath="$PROJECT_DIR$/.idea/modules/eLivestock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

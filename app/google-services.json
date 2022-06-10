@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205337831508",
+    "firebase_url": "https://elivestock-2d0ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elivestock-2d0ba",
+    "storage_bucket": "elivestock-2d0ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205337831508:android:6adf5b730b5aa45e05e5c1",
+        "android_client_info": {
+          "package_name": "app.elivestock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205337831508-bdsuctdc38eod41p55ed6nf9rok36053.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVTF6e1GZP0asUUyuOT6QkFJBBUqaIec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205337831508-bdsuctdc38eod41p55ed6nf9rok36053.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

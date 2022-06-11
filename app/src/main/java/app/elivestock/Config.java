@@ -13,7 +13,7 @@ import com.qiniu.android.dns.dns.DohResolver;
 import java.io.IOException;
 
 public class Config {
-    static String webLink = "https://f5ad-54-169-147-222.ap.ngrok.io";
+    static String webLink = "https://9d176ad7f13aa8.lhrtunnel.link";
 
     //Admin panel url
     public static final String ADMIN_PANEL_URL = webLink + "/eLivestock";

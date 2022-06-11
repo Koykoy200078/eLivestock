@@ -42,8 +42,7 @@ public class AdapterProduct extends RecyclerView.Adapter<AdapterProduct.MyViewHo
     @NonNull
     @Override
     public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View itemView = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.item_product, parent, false);
+        View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_product, parent, false);
 
         return new MyViewHolder(itemView);
     }
@@ -60,7 +59,7 @@ public class AdapterProduct extends RecyclerView.Adapter<AdapterProduct.MyViewHo
         } else {
             holder.product_price.setText(product.getProduct_price() + " " + product.getCurrency_code());
         }
-
+        holder.product_owner.setText(" " + product.getProduct_owner());
         holder.product_quantity.setText(" " + product.getProduct_quantity());
 
         Transformation transformation = new RoundedTransformationBuilder()

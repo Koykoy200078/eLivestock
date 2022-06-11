@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eLivestock.iml" filepath="$PROJECT_DIR$/.idea/modules/eLivestock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eLivestock.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eLivestock.app.unitTest.iml" />
     </modules>

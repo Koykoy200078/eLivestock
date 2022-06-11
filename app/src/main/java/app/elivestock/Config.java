@@ -1,8 +1,5 @@
 package app.elivestock;
 
-import android.app.Activity;
-import android.content.Context;
-
 import com.qiniu.android.dns.DnsManager;
 import com.qiniu.android.dns.IResolver;
 import com.qiniu.android.dns.NetworkInfo;

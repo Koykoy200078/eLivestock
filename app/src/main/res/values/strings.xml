@@ -40,7 +40,7 @@
     <string name="msg_no_history">Your order history is empty!</string>
     <string name="empty_cart">Whoops, your cart is empty</string>
     <string name="btn_continue_shopping">Continue Shopping</string>
-    <string name="btn_add_to_cart">ADD TO CART</string>
+    <string name="btn_add_to_cart">Purchase Order</string>
     <string name="btn_out_of_stock">OUT OF STOCK</string>
     <string name="msg_stock_not_enough">Stock is not enough</string>
     <string name="msg_stock_below_0">product quantity cannot be 0</string>
@@ -65,7 +65,7 @@
     <string name="checkout_submit_title">Please wait</string>
     <string name="checkout_submit_msg">Submit your order&#8230;</string>
     <string name="checkout_success_title">Congratulation</string>
-    <string name="checkout_success_msg">Thank you for ordering, your order will be review soon, invoice detail will be sent to your email when the order is ready.</string>
+    <string name="checkout_success_msg">Thank you for ordering, your order will be review soon. Please stay in touch.</string>
     <string name="checkout_option_ok">OK</string>
     <string name="checkout_address">Address</string>
     <string name="checkout_shipping">Shipping</string>

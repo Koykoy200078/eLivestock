@@ -85,6 +85,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardCornerRadius="15dp"
+                android:layout_marginBottom="10dp"
                 card_view:cardBackgroundColor="@android:color/white"
                 card_view:cardElevation="8sp"
                 card_view:cardUseCompatPadding="true">
@@ -106,7 +107,6 @@
                         android:layout_marginRight="10dp"
                         android:gravity="center"
                         android:text="Title"
-                        android:textSize="22sp"
                         android:textStyle="bold" />
 
                     <LinearLayout
@@ -130,7 +130,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Price: "
-                                android:textSize="15sp"
                                 android:textStyle="bold"
                                 android:tint="@color/grey" />
 
@@ -143,7 +142,6 @@
                                 android:gravity="center"
                                 android:text="10 PHP"
                                 android:textColor="@color/txt_price_color"
-                                android:textSize="15sp"
                                 android:textStyle="bold" />
 
                         </LinearLayout>
@@ -164,7 +162,6 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Stocks: "
-                            android:textSize="15sp"
                             android:textStyle="bold"
                             android:tint="@color/grey" />
 
@@ -173,7 +170,6 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="10"
-                            android:textSize="15sp"
                             android:textStyle="bold" />
 
                     </LinearLayout>
@@ -199,7 +195,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Seller Name: "
-                                android:textSize="15sp"
                                 android:textStyle="bold"
                                 android:tint="@color/grey" />
 
@@ -210,7 +205,6 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_marginRight="5dp"
                                 android:text="product_owner"
-                                android:textSize="15sp"
                                 android:textStyle="bold" />
 
                         </LinearLayout>
@@ -230,7 +224,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Seller Contact Number: "
-                                android:textSize="15sp"
                                 android:textStyle="bold"
                                 android:tint="@color/grey" />
 
@@ -241,7 +234,6 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_marginRight="5dp"
                                 android:text="product_owner_contact"
-                                android:textSize="15sp"
                                 android:textStyle="bold" />
 
                         </LinearLayout>
@@ -261,7 +253,6 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Seller Address: "
-                                android:textSize="15sp"
                                 android:textStyle="bold"
                                 android:tint="@color/grey" />
 
@@ -272,7 +263,6 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_marginRight="5dp"
                                 android:text="product_owner_address"
-                                android:textSize="15sp"
                                 android:textStyle="bold" />
 
                         </LinearLayout>
